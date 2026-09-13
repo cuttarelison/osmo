@@ -1,0 +1,26 @@
+{
+  "name": "osmo",
+  "version": "1.0.0",
+  "description": "A beautiful, minimal web template framework",
+  "main": "index.html",
+  "author": "cuttarelison",
+  "license": "MIT",
+  "keywords": [
+    "template",
+    "website",
+    "framework",
+    "responsive",
+    "minimal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/osmo"
+  },
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "make",
+    "clean": "make clean"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
