@@ -27,7 +27,7 @@ osmo/
 
 Clone the repository:
 ```
-git clone https://github.com/yourusername/osmo.git
+git clone https://github.com/cuttarelison/osmo.git
 cd osmo
 ```
 
